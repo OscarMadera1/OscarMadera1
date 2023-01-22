@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-<!--
-**OscarMadera1/OscarMadera1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**OSCAR MADERA**
 
-Here are some ideas to get you started:
+:bowtie: :smile: :bowtie: :laughing:
+
+*Hola mundo aqui mi primer gitpages asi que vamos a ello *
+
+`VER`  `ESCUCHAR` `ANALIZAR`
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
